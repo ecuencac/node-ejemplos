@@ -1,0 +1,33 @@
+{
+  "series": [
+    {
+      "titulo": "Vikings",
+      "episodios": 100,
+      "episodiosVistos": 99
+    },
+    {
+      "titulo": "The Walking Dead",
+      "episodios": 160,
+      "episodiosVistos": 160
+    },
+    {
+      "titulo": "Gangland Undercover",
+      "episodios": 30,
+      "episodiosVistos": 25
+    }
+  ],
+  "peliculas": [
+    {
+      "titulo": "Fast & Furious: Hobbs & Shaw",
+      "vista": false
+    },
+    {
+      "titulo": "A star is born",
+      "vista": true
+    },
+    {
+      "titulo": "Creed",
+      "vista": true
+    }
+  ]
+}
